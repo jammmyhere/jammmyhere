@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Mohamed Jamal</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 # 💫 About Me:
 💫 About Me:<br>🔭 I love building projects<br>💬 Ask me about React Native
 
