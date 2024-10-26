@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jamal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-# 💫 About Me:
-💫 About Me:<br>🔭 I love building projects<br>💬 Ask me about React Native
+# 💫 About Me:<br>🔭 I love building projects<br>💬 Ask me about React Native
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jammmyhere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
