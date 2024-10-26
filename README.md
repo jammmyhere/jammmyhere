@@ -2,13 +2,6 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <h3 💫 About Me:<br>🔭 I love building projects<br>💬 Ask me about React Native
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jammmyhere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jammmyhere&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jammmyhere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jammmyhere&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
